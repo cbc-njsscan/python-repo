@@ -1,5 +1,6 @@
 # PyYAML Security Issue  
 
+
 ## The Task: Update some legacy code
 
 - **CVE-2017-18342** affects PyYAML.
