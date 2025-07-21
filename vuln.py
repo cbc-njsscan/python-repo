@@ -1,6 +1,8 @@
 import os, yaml, sys
 
 apikey="12345678790"
+password=apikey
+token='ghp_12345abcdefg12345abcdefg12345abcdefg12'
 if len(sys.argv) < 2:
     print("Usage: python vuln.py <yaml_file>")
     sys.exit(1)
