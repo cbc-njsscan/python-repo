@@ -1,5 +1,6 @@
 import os, yaml, sys
 
+apikey="12345678790"
 if len(sys.argv) < 2:
     print("Usage: python vuln.py <yaml_file>")
     sys.exit(1)
